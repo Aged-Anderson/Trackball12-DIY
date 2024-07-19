@@ -26,7 +26,7 @@ M3 heated inserts
 8mm-10mm M3 knurled screws 
 
 
-##Wiring Diagrams:
+## Wiring Diagrams:
 | PMW3360 Breakout | Pico |
 | ----------- | ------ |
 | VIN         | 3.3V   |
@@ -38,7 +38,7 @@ M3 heated inserts
 | MOTION      | N/A    |
 | RESET       | N/A    |
 
-##Switches
+## witches
 Whatever pin you choes to be ground, wire all of those to ground. The other pins sould be wired to, from left to right:
 GP13, GP12, GP17, GP16
 
@@ -48,7 +48,7 @@ Flash command:
 `qmk flash -kb trackball -km default`
 
 
-##3d printed parts.
+## 3d printed parts.
 I had to make the baseplate as simple as I could becasue I had no screws small enough for the pico's screw holes.
 
 On the base plate, the two overhangs might need shaved so that the pico slides under them. The backside may also need shaved a little so that the pico can be put in the hole and held in. The pico is held in by tension, by bending the base plate so that the pico slides into the divot and then stop bending. The pico should now be secured into the base plate.
