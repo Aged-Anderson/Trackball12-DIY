@@ -1,0 +1,37 @@
+{
+    "manufacturer": "Aged_Anderson",
+    "url": "https://github.com/Aged-Anderson/Trackball12-DIY",
+    "maintainer": "Aged_Anderson",
+    "keyboard_name": "PMW3360-RP2040",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": false
+    },
+    "usb": {
+        "vid": "0x5A69",
+        "pid": "0x3360",
+        "device_version": "1.0.0"
+    },
+    "matrix_pins": {
+        "direct": [["GP13", "GP12", "GP17", "GP16", "GP8"]],
+
+    },
+    "diode_direction": "COL2ROW",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0 },
+                { "matrix": [0, 1], "x": 1, "y": 0 },
+                { "matrix": [0, 2], "x": 2, "y": 0 },
+                { "matrix": [0, 3], "x": 3, "y": 0 },
+                { "matrix": [0, 4], "x": 4, "y": 0 }
+            ]
+        }
+    }
+}
