@@ -38,7 +38,7 @@ M3 heated inserts
 | MOTION      | N/A    |
 | RESET       | N/A    |
 
-Whatever pin you choes to be ground, wire all of those to ground. The other pins sould be wired to, from left to right:
+for the switches, whatever pin you chose to be ground, wire all of those to ground. The other pins sould be wired to, from left to right:
 GP13, GP12, GP17, GP16
 
 I would recommend making the wires fairly long, so that instalation is easier.
