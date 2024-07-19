@@ -7,7 +7,7 @@ Huge thanks to SideraKB, and Wylderbuilds.
 
 ![trackMain](https://github.com/user-attachments/assets/427b14f7-e0ad-4de5-964e-e140fccddb44)
 
-##Parts List.
+## Parts List.
 
 VEICHU Converyor Component VCN310/311 Stainless Steel Round Durable Bull Wheel Transfer Bearing Roller Balls 
 
@@ -38,7 +38,7 @@ M3 heated inserts
 | MOTION      | N/A    |
 | RESET       | N/A    |
 
-## witches
+## switches
 Whatever pin you choes to be ground, wire all of those to ground. The other pins sould be wired to, from left to right:
 GP13, GP12, GP17, GP16
 
