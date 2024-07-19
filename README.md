@@ -38,15 +38,10 @@ M3 heated inserts
 | MOTION      | N/A    |
 | RESET       | N/A    |
 
-## switches
 Whatever pin you choes to be ground, wire all of those to ground. The other pins sould be wired to, from left to right:
 GP13, GP12, GP17, GP16
 
-
-Flash command:
-
-`qmk flash -kb trackball -km default`
-
+I would recommend making the wires fairly long, so that instalation is easier.
 
 ## 3d printed parts.
 I had to make the baseplate as simple as I could becasue I had no screws small enough for the pico's screw holes.
@@ -54,3 +49,10 @@ I had to make the baseplate as simple as I could becasue I had no screws small e
 On the base plate, the two overhangs might need shaved so that the pico slides under them. The backside may also need shaved a little so that the pico can be put in the hole and held in. The pico is held in by tension, by bending the base plate so that the pico slides into the divot and then stop bending. The pico should now be secured into the base plate.
 
 The micro usb hole may need filed down to fit all micro usb cables, the one that I am using is small enough that I didn't need to.
+
+The heated inserts need to be put in the top half of the body, and the sensor installed with the breakout pins facing to the right.
+
+
+## Flash command:
+
+`qmk flash -kb trackball -km default`
