@@ -21,7 +21,7 @@ Wires
 
 PMW3360 breakout board (you'll need the sensor as well as the lens if the breakout board doesn't come with one)
 
-M3 heated inserts
+M3 heated inserts standard 3x4x5
 
 8mm-10mm M3 knurled screws 
 
